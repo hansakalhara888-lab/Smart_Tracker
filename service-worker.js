@@ -1,4 +1,4 @@
-const CACHE_NAME = 'smarttracker-pwa-v3';
+const CACHE_NAME = 'smarttracker-pwa-v4';
 const RUNTIME_CACHE = 'smarttracker-runtime-v1';
 
 const APP_SHELL = [
